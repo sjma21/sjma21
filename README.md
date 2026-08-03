@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sajal Mishra
 =====================================================================================================================================
 
-Associate System Analyst - BlockChain and Backend Developer
+Associate System Analyst - Full Stack AI Engineer 
 -----------------------------------------------------------
 
 Hello there! I'm Sajal Mishra — a passionate and driven final-year B.Tech student with a deep interest in solving real-world problems through innovative technology. Currently, I’m gaining valuable hands-on experience as a Software Engineer at Syvora, where I’m involved in building and optimizing scalable backend systems.
