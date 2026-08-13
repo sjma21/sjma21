@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Associate System Analyst - Full Stack AI Engineer 
 -----------------------------------------------------------
 
-Hello there! I'm Sajal Mishra — a passionate and driven final-year B.Tech student with a deep interest in solving real-world problems through innovative technology. Currently, I’m gaining valuable hands-on experience as a Software Engineer at Syvora, where I’m involved in building and optimizing scalable backend systems.
+Hello there! I'm Sajal Mishra — a passionate and driven Computer Science Engineer with a deep interest in solving real-world problems through innovative technology. Currently, I’m gaining valuable hands-on experience as a Software Engineer at Syvora, where I’m involved in building and optimizing scalable backend systems.
 
 My technical expertise spans multiple domains — from backend development with Go (Golang), blockchain and smart contracts, to full-stack web development using the MERN stack and Next.js. I have strong proficiency in React.js, enabling me to craft dynamic, performant, and user-friendly interfaces.
 
